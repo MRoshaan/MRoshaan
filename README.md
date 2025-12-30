@@ -32,7 +32,6 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ---
 
-## 📊 GitHub Analytics
 
 ## 📊 GitHub Analytics
 
