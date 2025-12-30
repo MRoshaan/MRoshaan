@@ -32,12 +32,11 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ---
 
-
 ## 📊 GitHub Analytics
 
-![Stats Graph](https://github-readme-stats.vercel.app/api?username=mroshaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+![Stats Graph](https://github-readme-stats.vercel.app/api?username=MRoshaan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mroshaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoshaan&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
