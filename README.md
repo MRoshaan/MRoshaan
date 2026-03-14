@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Full-Stack+%26+Mobile+Developer;FastAPI,+Flutter+%26+Data;CS+Student+@+SSUET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Backend+Systems+Engineer;FastAPI+%26+Data+Enthusiast;CS+Student+@+SSUET" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Data-Oriented Problem Solver | CS Junior</h3>
+  <h3>🚀 Backend Developer | Data-Oriented Problem Solver | CS Junior</h3>
 </div>
 
 <p align="center">
@@ -24,11 +24,11 @@
 
 I am a **3rd Year Computer Science** undergraduate at **Sir Syed University of Engineering & Technology**, currently holding a **3.81 CGPA**.
 
-My engineering philosophy revolves around **"Learning by Building."** I specialize in architecting scalable backend systems, ensuring database integrity, and building resilient offline-first mobile applications. I am currently deep-diving into **System Design**, **Concurrency Patterns**, and **AI Agent Architecture**.
+My engineering philosophy revolves around **"Learning by Building."** I specialize in architecting scalable backend systems, ensuring database integrity, and optimizing data flow. I am currently deep-diving into **System Design**, **Concurrency Patterns**, and **AI Agent Architecture**.
 
-- 🔭 **I’m currently working on:** An offline-first mobile application (**BooknScore**) and high-concurrency engines using **FastAPI**.
+- 🔭 **I’m currently working on:** High-concurrency engines using **FastAPI** and resilient offline-first data synchronization models.
 - 🌱 **I’m currently learning:** AI Agent development (LangGraph/LangChain), Microservices, and Dockerization.
-- 💬 **Ask me about:** Flutter State Management, REST APIs, SQL Optimization, and Python Backend Logic.
+- 💬 **Ask me about:** Database Architecture, REST APIs, SQL Optimization, and Python Backend Logic.
 
 ---
 
@@ -36,21 +36,22 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
-| **Mobile & BaaS** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 
 ## 📌 Featured Engineering Projects
 
-### 🏏 [BooknScore (Mobile App)](https://github.com/MRoshaan/BooknScore)
-> *Professional-grade, offline-first cricket scoring application.*
-* **Core Tech:** Flutter, Supabase, SQLite, Provider
-* **Architecture:** Engineered a highly resilient 2-Tier Architecture featuring a local SQLite engine to prevent data loss during network drops, paired with background cloud syncing.
-* **Security:** Integrated real-time PostgreSQL syncing protected by strict Row Level Security (RLS) policies.
+### 🏏 [BooknScore (Offline-First Sync Architecture)](https://github.com/MRoshaan/BooknScore)
+> *A highly resilient 2-tier database architecture designed for zero data loss in unstable network environments.*
+* **Core Tech:** SQLite, Supabase (PostgreSQL), Dart/Flutter
+* **Database Architecture:** Engineered a local SQLite engine for instantaneous, reliable writes during sports matches, eliminating the risk of data loss on disconnects.
+* **Cloud Sync Engine:** Designed a background synchronization service that securely pushes local state changes to a Supabase PostgreSQL backend when network connectivity is restored.
+* **Security:** Implemented strict Row Level Security (RLS) policies on the cloud database to protect community scorecard integrity.
 
 ### ⚡ [FlashSale Concurrency Engine](https://github.com/MRoshaan/flashsale-concurrency-engine)
 > *Solving the "Overselling" problem in high-traffic e-commerce environments.*
