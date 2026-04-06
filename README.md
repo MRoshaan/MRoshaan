@@ -51,19 +51,17 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 * **Core Tech:** SQLite, Supabase (PostgreSQL), Dart/Flutter
 * **Database Architecture:** Engineered a local SQLite engine for instantaneous, reliable writes during sports matches, eliminating the risk of data loss on disconnects.
 * **Cloud Sync Engine:** Designed a background synchronization service that securely pushes local state changes to a Supabase PostgreSQL backend when network connectivity is restored.
-* **Security:** Implemented strict Row Level Security (RLS) policies on the cloud database to protect community scorecard integrity.
+
+### 🎟️ [SeatVault (Enterprise Concurrency Engine)](https://github.com/MRoshaan/SeatVault)
+> *An enterprise-grade, high-concurrency booking API designed to prevent race conditions and double-booking during massive flash sales.*
+* **Core Tech:** FastAPI, Redis, MySQL, Celery
+* **Engineering Feat:** Implemented **Distributed Locking with Redis** to handle sub-millisecond race conditions across multiple server instances.
+* **Asynchronous Processing:** Integrated Celery workers for background payment simulation and seat release logic, ensuring the main API thread remains non-blocking and responsive.
 
 ### ⚡ [FlashSale Concurrency Engine](https://github.com/MRoshaan/flashsale-concurrency-engine)
 > *Solving the "Overselling" problem in high-traffic e-commerce environments.*
 * **Core Tech:** FastAPI, MySQL (InnoDB), Threading
 * **Engineering Feat:** Implemented **Pessimistic Locking (SELECT ... FOR UPDATE)** to handle race conditions during simultaneous write operations.
-* **Validation:** Conducted multi-threaded stress testing to ensure ACID compliance and zero negative inventory anomalies.
-
-### 📚 [Book Manager API](https://github.com/MRoshaan/fastapi-book-api)
-> *A modular, production-ready RESTful service.*
-* **Core Tech:** FastAPI, SQLAlchemy ORM, Pydantic
-* **Architecture:** Implemented clean architecture principles with distinct routers, schemas, and models.
-* **Features:** Full CRUD capabilities with robust error handling and input validation.
 
 ### 🎬 [Netflix Data Analysis Pipeline](https://github.com/MRoshaan/Netflix-Content-Analysis)
 > *Uncovering insights from raw entertainment datasets.*
