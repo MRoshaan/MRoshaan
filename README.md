@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Backend Developer ad | Data-Oriented Problem Solver | CS Junior</h3>
+  <h3>🚀 Backend Developer | Data-Oriented Problem Solver | CS Junior</h3>
 </div>
 
 <p align="center">
