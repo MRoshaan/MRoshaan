@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Backend+Systems+Engineer;FastAPI+%26+Data+Enthusiast;CS+Student+@+SSUET" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <h3>🚀 Backend Developer | Data-Oriented Problem Solver | CS Junior</h3>
 </div>
 
@@ -77,7 +73,11 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 * **Outcome:** Performed Exploratory Data Analysis (EDA) to visualize trends in content duration, genre popularity, and regional distribution over the last decade.
 
 ---
-
+##Stats
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Backend+Systems+Engineer;FastAPI+%26+Data+Enthusiast;CS+Student+@+SSUET" alt="Typing SVG" />
+</div>
+---
 ## 🌐 Connect & Portfolio
 
 <div align="center">
