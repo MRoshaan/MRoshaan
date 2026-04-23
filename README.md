@@ -18,6 +18,14 @@
   </a>
 </p>
 
+<!-- 🚩 STATS CARDS STARTS HERE -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRoshaan&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRoshaan&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</p>
+<!-- 🚩 STATS CARDS ENDS HERE -->
+
 <br />
 
 ## 👨‍💻 About Me
