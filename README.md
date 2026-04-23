@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Backend+Systems+Engineer;FastAPI+%26+Data+Enthusiast;CS+Student+@+SSUET" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <h3>🚀 Backend Developer | Data-Oriented Problem Solver | CS Junior</h3>
 </div>
 
@@ -13,14 +17,6 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail" />
   </a>
 </p>
-
-<!-- 🚩 STATS CARDS STARTS HERE -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MRoshaan&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRoshaan&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-</p>
-<!-- 🚩 STATS CARDS ENDS HERE -->
 
 <br />
 
@@ -73,11 +69,7 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 * **Outcome:** Performed Exploratory Data Analysis (EDA) to visualize trends in content duration, genre popularity, and regional distribution over the last decade.
 
 ---
-##Stats
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=339AF0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Roshaan;Backend+Systems+Engineer;FastAPI+%26+Data+Enthusiast;CS+Student+@+SSUET" alt="Typing SVG" />
-</div>
----
+
 ## 🌐 Connect & Portfolio
 
 <div align="center">
@@ -89,6 +81,14 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 </div>
 
 <br />
+
+<!-- 🚩 STATS CARDS SECTION STARTS HERE -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MRoshaan&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRoshaan&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</p>
+<!-- 🚩 STATS CARDS SECTION ENDS HERE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=100&section=footer" width="100%"/>
