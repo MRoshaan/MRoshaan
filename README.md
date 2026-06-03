@@ -46,6 +46,13 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ## 📌 Featured Engineering Projects
 
+### 🗺️ [Fleet Command Center (Real-Time Logistics Engine)](https://github.com/MRoshaan/fleet-tracker-n-dispatcher-app)
+> *A production-grade spatial event streamer and dispatch dashboard engineered for sub-second live tracking and concurrency control.*
+* **Core Tech:** FastAPI, Redis, WebSockets, Next.js, OSRM
+* **Real-Time Telemetry:** Engineered a high-throughput geospatial tracking engine using **Redis Pub/Sub** and WebSockets to stream live vehicle coordinates to a dispatch dashboard instantly.
+* **Concurrency Control:** Solved dispatcher race conditions (double-booking) by implementing **Pessimistic Locking via Redis**, safely rejecting simultaneous assignment requests.
+* **Physics & Routing:** Integrated OSRM routing and geodesic vector math to simulate map-matched vehicle telemetry, dynamically calculating Haversine distances on the client side.
+
 ### 🏏 [BooknScore (Offline-First Sync Architecture)](https://github.com/MRoshaan/BooknScore)
 > *A highly resilient 2-tier database architecture designed for zero data loss in unstable network environments.*
 * **Core Tech:** SQLite, Supabase (PostgreSQL), Dart/Flutter
@@ -82,14 +89,11 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 <br />
 
-<!-- 🚩 STATS CARDS SECTION STARTS HERE -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MRoshaan&show_icons=true&count_private=true&hide=prs&theme=blue-green" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRoshaan&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </p>
-<!-- 🚩 STATS CARDS SECTION ENDS HERE -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=100&section=footer" width="100%"/>
 </p>
