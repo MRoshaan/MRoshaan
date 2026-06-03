@@ -46,7 +46,7 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ## 📌 Featured Engineering Projects
 
-### 🗺️ [Fleet Command Center (Real-Time Logistics Engine)](https://github.com/MRoshaan/fleet-tracker-n-dispatcher-app)
+### 🗺️ [Fleet Command Center (Real-Time Logistics Engine)](https://github.com/MRoshaan/edge-logistics-pipeline)
 > *A production-grade spatial event streamer and dispatch dashboard engineered for sub-second live tracking and concurrency control.*
 * **Core Tech:** FastAPI, Redis, WebSockets, Next.js, OSRM
 * **Real-Time Telemetry:** Engineered a high-throughput geospatial tracking engine using **Redis Pub/Sub** and WebSockets to stream live vehicle coordinates to a dispatch dashboard instantly.
