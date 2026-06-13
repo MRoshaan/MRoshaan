@@ -67,7 +67,7 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ### ⚡ [FlashSale Concurrency Engine](https://github.com/MRoshaan/flashsale-concurrency-engine)
 > *Solving the "Overselling" problem in high-traffic e-commerce environments.*
-* **Core Tech:** FastAPI, MySQL (InnoDB), Threading
+* **Core Tech:** FastAPI, MySQL , Threading
 * **Engineering Feat:** Implemented **Pessimistic Locking (SELECT ... FOR UPDATE)** to handle race conditions during simultaneous write operations.
 
 ### 🎬 [Netflix Data Analysis Pipeline](https://github.com/MRoshaan/Netflix-Content-Analysis)
