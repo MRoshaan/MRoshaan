@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **3rd Year Computer Science** undergraduate at **Sir Syed University of Engineering & Technology**, currently holding a **3.81 CGPA**.
+I am a **final Year Computer Science** undergraduate at **Sir Syed University of Engineering & Technology**, currently holding a **3.81 CGPA**.
 
 My engineering philosophy revolves around **"Learning by Building."** I specialize in architecting scalable backend systems, ensuring database integrity, and optimizing data flow. I am currently deep-diving into **System Design**, **Concurrency Patterns**, and **AI Agent Architecture**.
 
