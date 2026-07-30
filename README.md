@@ -46,6 +46,12 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ## 📌 Featured Engineering Projects
 
+### 🔄 [Enterprise ETL & Inventory Pipeline](https://github.com/MRoshaan/enterprise-inventory-etl)
+> *An automated, zero-intervention ETL data pipeline that processes raw supplier files, ensures ACID-compliant database writes, and serves real-time inventory metrics.*
+* **Core Tech:** FastAPI, Pandas, SQLAlchemy, Supabase, Celery, Redis
+* **Data Engineering:** Engineered an automated ETL pipeline using Pandas and SQLAlchemy to clean and bulk-load 540K+ retail records into a Supabase PostgreSQL database.
+* **Asynchronous Automation:** Integrated Celery and Redis for background scheduling and real-time inventory threshold alerts, optimizing write throughput with Supabase connection pooling.
+
 ### 🗺️ [Fleet Command Center (Real-Time Logistics Engine)](https://github.com/MRoshaan/edge-logistics-pipeline)
 > *A production-grade spatial event streamer and dispatch dashboard engineered for sub-second live tracking and concurrency control.*
 * **Core Tech:** FastAPI, Redis, WebSockets, Next.js, OSRM
@@ -67,7 +73,7 @@ My engineering philosophy revolves around **"Learning by Building."** I speciali
 
 ### ⚡ [FlashSale Concurrency Engine](https://github.com/MRoshaan/flashsale-concurrency-engine)
 > *Solving the "Overselling" problem in high-traffic e-commerce environments.*
-* **Core Tech:** FastAPI, MySQL , Threading
+* **Core Tech:** FastAPI, MySQL, Threading
 * **Engineering Feat:** Implemented **Pessimistic Locking (SELECT ... FOR UPDATE)** to handle race conditions during simultaneous write operations.
 
 ### 🎬 [Netflix Data Analysis Pipeline](https://github.com/MRoshaan/Netflix-Content-Analysis)
