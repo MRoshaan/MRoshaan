@@ -10,6 +10,8 @@
 
 I build backend systems and data pipelines that hold up under real load concurrency-safe transaction engines, ETL pipelines processing hundreds of thousands of records, and offline-first sync architectures. My focus areas: **distributed systems, data integrity, and API design.**
 
+**Currently exploring:** AI safety and evaluation — stress-testing LLMs, building evaluation harnesses to measure reliability and jailbreak resistance, and assessing biosecurity risks in AI systems.
+
 ---
 
 ## Featured Projects
