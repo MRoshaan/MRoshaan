@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://roshaanportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://www.m-roshaan.me/"><img src="https://img.shields.io/badge/Portfolio-1F4E79?style=flat-square" alt="Portfolio"/></a>
   <a href="https://github.com/MRoshaan"><img src="https://img.shields.io/badge/GitHub-MRoshaan-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 </p>
 
