@@ -85,7 +85,7 @@ Multi-tenant modular monolith with tenant-aware data isolation and role-based ac
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, Go, Java, SQL |
+| **Languages** | Python, Go, SQL |
 | **Backend & APIs** | FastAPI, SQLAlchemy, REST APIs, WebSockets, Celery, Pydantic |
 | **Databases** | PostgreSQL, MySQL, SQLite, MongoDB, Redis, Supabase |
 | **Data & ML** | Pandas, NumPy, scikit-learn, XGBoost, LightGBM, Power BI, Hopsworks |
